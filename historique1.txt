@@ -1,0 +1,9 @@
+mer. nov. 24 13:41:48 2021 un noveau sponsor est ajouter
+mer. nov. 24 13:42:00 2021 le sponsor avec id = 5 est modiffier
+mer. nov. 24 13:42:08 2021 sponsor avec id = 5 supprimer
+mer. déc. 1 01:15:17 2021 un noveau sponsor est ajouter
+mer. déc. 1 10:10:10 2021 un noveau sponsor est ajouter
+mer. déc. 1 10:10:18 2021 sponsor avec id = 0 supprimer
+jeu. déc. 9 09:24:08 2021 un noveau sponsor est ajouter
+jeu. déc. 9 09:24:13 2021 un noveau sponsor est ajouter
+jeu. déc. 9 09:24:21 2021 un noveau sponsor est ajouter
